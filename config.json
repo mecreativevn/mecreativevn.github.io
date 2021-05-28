@@ -1,0 +1,21 @@
+{
+  "requestDuration": 172800,
+  "maxClickAdsCount": 3,
+  "developerUrl": "https://itunes.apple.com/vn/developer/luu-thi-tuyet-minh/id1406224933",
+  "contact": {
+    "facebook": "https://m.me/mecreative.vn",
+    "instagram": "instagram://user?username=me.creative.vn",
+    "email": "luuthituyetminh.dn@gmail.com"
+  },
+  "ads": [
+    {
+      "availableAppIds": [],
+      "id": "shop",
+      "title": "FAN SHOP",
+      "desc": "Buy cute printed art: t-shirt, mug, bag, phone case... now!",
+      "imageUrls": ["https://mir-s3-cdn-cf.behance.net/project_modules/fs/88e5c6102742515.5f3d67cd6444c.jpg"],
+      "url": "https://printub.com/user/mecreative",
+      "otherUrl": "https://www.zazzle.com/store/mecreativestore/products"
+    }
+  ]
+}
